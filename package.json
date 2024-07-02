@@ -1,0 +1,19 @@
+{
+  "name": "diccionarioapi",
+  "version": "0.0.0",
+  "description": "Firebase api para una webapp simple",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eriarer/diccionarioapi.git"
+  },
+  "author": "Eryn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eriarer/diccionarioapi/issues"
+  },
+  "homepage": "https://github.com/Eriarer/diccionarioapi#readme"
+}
